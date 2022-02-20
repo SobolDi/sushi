@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+
+}
+
+h1 {
+  
+    padding: 5px;
+    font-size: 50px;
+    text-align: center;
+    background-color: aquamarine
+}
+
+h2{
+    background-color: rgb(174, 243, 243);
+    border-top: 100px;
+}
+body {
+  background: #d6eaf8;
+}
+.gradient-button {
+  text-decoration: none;
+  display: inline-block;
+  color: white;
+  padding: 20px 30px;
+  margin: 10px 20px;
+  border-radius: 10px;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background-image: linear-gradient(to right, #9EEFE1 0%, #4830F0 51%, #9EEFE1 100%);
+  background-size: 200% auto;
+  box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+  transition: .5s;
+}
+.gradient-button:hover {
+  background-position: right center;
+}
+footer{
+    background-color: rgb(31, 255, 188);
+
+
+}
+header a{
+padding: 30px;
+background-color: rgb(91, 233, 190);
+border-radius: 30px;
+}
